@@ -1,0 +1,53 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://api.looksrare.org/api/v1/collections?address=0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"success\":true,\"message\":null,\"data\":{\"address\":\"0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e\",\"owner\":\"0x62ac2DbBD306610fF8652B9e0D1A310B6C6AFa0f\",\"name\":\"goblintown.wtf\",\"description\":\"AAAAAAAUUUUUGGGHHHHH gobblins goblinns GOBLINNNNNNNNns wekm ta goblintown yoo sniksnakr DEJEN RATS oooooh rats are yummmz dis a NEFTEEE O GOBBLINGS on da BLOKCHIN wat? oh. crustybutt da goblinking say GEE EMMM DEDJEN RUTS an queenie saay HLLO SWEATIES ok dats all byeby\",\"symbol\":\"GOBLIN\",\"type\":\"ERC721\",\"websiteLink\":\"https://goblintown.wtf/\",\"facebookLink\":null,\"twitterLink\":null,\"instagramLink\":null,\"telegramLink\":null,\"mediumLink\":null,\"discordLink\":null,\"isVerified\":true,\"isExplicit\":false}}",
+      "headers": {
+        "Date": "Sat, 04 Jun 2022 23:07:27 GMT",
+        "Content-Type": "application/json; charset=utf-8",
+        "Content-Length": "686",
+        "Connection": "keep-alive",
+        "Content-Security-Policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+        "Cross-Origin-Embedder-Policy": "require-corp",
+        "Cross-Origin-Opener-Policy": "same-origin",
+        "Cross-Origin-Resource-Policy": "same-origin",
+        "X-DNS-Prefetch-Control": "off",
+        "Expect-CT": "max-age=0",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+        "X-Download-Options": "noopen",
+        "X-Content-Type-Options": "nosniff",
+        "Origin-Agent-Cluster": "?1",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "Referrer-Policy": "no-referrer",
+        "X-XSS-Protection": "0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true",
+        "Access-Control-Expose-Headers": "RateLimit-Limit,RateLimit-Remaining,RateLimit-Reset,X-Looks-UUID",
+        "x-looks-uuid": "c6a625df9f7e465e0a7ec5831fd199ee",
+        "RateLimit-Limit": "120",
+        "RateLimit-Remaining": "119",
+        "RateLimit-Reset": "60",
+        "ETag": "W/\"2ae-ZPcCg7T6yd0NZT1NS+8JpB5Sil8\"",
+        "CF-Cache-Status": "MISS",
+        "Expires": "Sat, 04 Jun 2022 23:07:57 GMT",
+        "Cache-Control": "public, max-age=30",
+        "Accept-Ranges": "bytes",
+        "Server": "cloudflare",
+        "CF-RAY": "71645326cc1a607d-SEA",
+        "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]
