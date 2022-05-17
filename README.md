@@ -15,6 +15,42 @@ def deps do
 end
 ```
 
+## Requirements
+
+- Erlang 22+
+- Elixir 1.13+
+
+## API Documentation
+
+https://looksrare.github.io/api-docs/
+
+## REST API
+
+#### Accounts
+
+- [ ] `GET /api/v1/accounts`
+- [ ] `GET /api/v1/orders`
+- [ ] `POST /api/v1/orders`
+- [ ] `GET /api/v1/orders/nonce`
+
+#### Collections
+
+- [ ] `GET /api/v1/collections`
+- [ ] `GET /api/v1/collections/stats`
+- [ ] `GET /api/v1/collections/listing-rewards`
+
+#### Tokens
+
+- [ ] `GET /api/v1/tokens`
+
+#### Events
+
+- [ ] `GET /api/v1/events`
+
+#### Rewards
+
+- [ ] `GET /api/v1/rewards/all`
+
 ## Authors
 
 - Alex Kwiatkowski - alex+git@fremantle.io
