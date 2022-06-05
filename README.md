@@ -1,4 +1,5 @@
 # ExLooksRare
+[![Build Status](https://github.com/fremantle-industries/ex_looks_rare/workflows/test/badge.svg?branch=main)](https://github.com/fremantle-industries/ex_looks_rare/actions?query=workflow%3Atest)
 [![hex.pm version](https://img.shields.io/hexpm/v/ex_looks_rare.svg?style=flat)](https://hex.pm/packages/ex_looks_rare)
 
 LooksRare API client for Elixir
