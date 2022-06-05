@@ -37,7 +37,7 @@ https://looksrare.github.io/api-docs/
 
 - [x] `GET /api/v1/collections`
 - [x] `GET /api/v1/collections/stats`
-- [ ] `GET /api/v1/collections/listing-rewards`
+- [x] `GET /api/v1/collections/listing-rewards`
 
 #### Tokens
 
