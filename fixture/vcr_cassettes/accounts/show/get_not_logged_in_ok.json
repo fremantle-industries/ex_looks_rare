@@ -1,0 +1,53 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://api.looksrare.org/api/v1/accounts?address=0xc6b0562605D35eE710138402B878ffe6F2E23807"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"success\":true,\"message\":null,\"data\":null}",
+      "headers": {
+        "Date": "Sun, 05 Jun 2022 01:06:54 GMT",
+        "Content-Type": "application/json; charset=utf-8",
+        "Content-Length": "43",
+        "Connection": "keep-alive",
+        "Content-Security-Policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+        "Cross-Origin-Embedder-Policy": "require-corp",
+        "Cross-Origin-Opener-Policy": "same-origin",
+        "Cross-Origin-Resource-Policy": "same-origin",
+        "X-DNS-Prefetch-Control": "off",
+        "Expect-CT": "max-age=0",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+        "X-Download-Options": "noopen",
+        "X-Content-Type-Options": "nosniff",
+        "Origin-Agent-Cluster": "?1",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "Referrer-Policy": "no-referrer",
+        "X-XSS-Protection": "0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true",
+        "Access-Control-Expose-Headers": "RateLimit-Limit,RateLimit-Remaining,RateLimit-Reset,X-Looks-UUID",
+        "x-looks-uuid": "ae865112955628f55f55f139c0df590c",
+        "RateLimit-Limit": "120",
+        "RateLimit-Remaining": "118",
+        "RateLimit-Reset": "39",
+        "ETag": "W/\"2b-J+8BkDTDz4qLKtQKlioUCHoUEYs\"",
+        "CF-Cache-Status": "REVALIDATED",
+        "Expires": "Sun, 05 Jun 2022 01:07:24 GMT",
+        "Cache-Control": "public, max-age=30",
+        "Accept-Ranges": "bytes",
+        "Server": "cloudflare",
+        "CF-RAY": "716502225ff56022-SEA",
+        "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

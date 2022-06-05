@@ -28,7 +28,7 @@ https://looksrare.github.io/api-docs/
 
 #### Accounts
 
-- [ ] `GET /api/v1/accounts`
+- [x] `GET /api/v1/accounts`
 - [ ] `GET /api/v1/orders`
 - [ ] `POST /api/v1/orders`
 - [ ] `GET /api/v1/orders/nonce`
