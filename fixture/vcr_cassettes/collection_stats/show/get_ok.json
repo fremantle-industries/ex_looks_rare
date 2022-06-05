@@ -1,0 +1,53 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://api.looksrare.org/api/v1/collections/stats?address=0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"success\":true,\"message\":null,\"data\":{\"address\":\"0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e\",\"countOwners\":4583,\"totalSupply\":9999,\"floorPrice\":\"4740000000000000000\",\"floorChange24h\":-26.397515527950308,\"floorChange7d\":69.28571428571428,\"floorChange30d\":100,\"marketCap\":\"47395260000000000000000\",\"volume24h\":\"228491800000000000000\",\"average24h\":\"5440280952380952381\",\"count24h\":42,\"change24h\":79.37385679407771,\"volume7d\":\"1787963534890000000000\",\"average7d\":\"5434539619726443769\",\"count7d\":329,\"change7d\":26.621495111108626,\"volume1m\":\"3236121578143939999000\",\"average1m\":\"1647719744472474541\",\"count1m\":1964,\"change1m\":100,\"volume3m\":\"3236121578143939999000\",\"average3m\":\"1647719744472474541\",\"count3m\":1964,\"change3m\":100,\"volume6m\":\"3236121578143939999000\",\"average6m\":\"1647719744472474541\",\"count6m\":1964,\"change6m\":100,\"volume1y\":\"3236121578143939999000\",\"average1y\":\"1647719744472474541\",\"count1y\":1964,\"change1y\":100,\"volumeAll\":\"3236121578143939999000\",\"averageAll\":\"1647719744472474541\",\"countAll\":1964}}",
+      "headers": {
+        "Date": "Sun, 05 Jun 2022 00:28:15 GMT",
+        "Content-Type": "application/json; charset=utf-8",
+        "Content-Length": "1015",
+        "Connection": "keep-alive",
+        "Content-Security-Policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+        "Cross-Origin-Embedder-Policy": "require-corp",
+        "Cross-Origin-Opener-Policy": "same-origin",
+        "Cross-Origin-Resource-Policy": "same-origin",
+        "X-DNS-Prefetch-Control": "off",
+        "Expect-CT": "max-age=0",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+        "X-Download-Options": "noopen",
+        "X-Content-Type-Options": "nosniff",
+        "Origin-Agent-Cluster": "?1",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "Referrer-Policy": "no-referrer",
+        "X-XSS-Protection": "0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true",
+        "Access-Control-Expose-Headers": "RateLimit-Limit,RateLimit-Remaining,RateLimit-Reset,X-Looks-UUID",
+        "x-looks-uuid": "00717ca59d74fe3286ad2b13d96f2876",
+        "RateLimit-Limit": "120",
+        "RateLimit-Remaining": "119",
+        "RateLimit-Reset": "60",
+        "ETag": "W/\"3f7-LHHKjRlmx5Cqf357jDmDnjvZdfA\"",
+        "CF-Cache-Status": "MISS",
+        "Expires": "Sun, 05 Jun 2022 00:28:45 GMT",
+        "Cache-Control": "public, max-age=30",
+        "Accept-Ranges": "bytes",
+        "Server": "cloudflare",
+        "CF-RAY": "7164c981891c8f6a-SEA",
+        "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]
