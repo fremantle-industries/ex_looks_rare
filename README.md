@@ -41,7 +41,7 @@ https://looksrare.github.io/api-docs/
 
 #### Tokens
 
-- [ ] `GET /api/v1/tokens`
+- [x] `GET /api/v1/tokens`
 
 #### Events
 
