@@ -45,7 +45,7 @@ https://looksrare.github.io/api-docs/
 
 #### Events
 
-- [ ] `GET /api/v1/events`
+- [x] `GET /api/v1/events`
 
 #### Rewards
 
