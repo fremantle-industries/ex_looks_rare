@@ -11,7 +11,7 @@ Add the `ex_looks_rare` package to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:ex_looks_rare, "~> 0.0.1"}
+    {:ex_looks_rare, "~> 0.0.2"}
   ]
 end
 ```
